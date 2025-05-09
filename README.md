@@ -7,7 +7,7 @@
 ### 🛠️ 技术方向
 | 🧠 AI 应用开发 | 🛠️ 全栈开发 | 🎨 产品设计 |
 |:--------------:|:-----------:|:-----------:|
-| LangChain, Prompt Engineering, workflow | React / Node / Java / Python | 用户体验，界面优化 |
+| LangChain, Prompt Engineering, Workflow | React / Node / Java / Python | 用户体验，界面优化 |
 
 ---
 
